@@ -1,6 +1,3 @@
-# Fichiers sources lourds / captures brutes de travail
-data/
-
 # Fichiers système & IDE
 .DS_Store
 Thumbs.db
